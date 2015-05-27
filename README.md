@@ -3,7 +3,7 @@ Persistent gag&amp;mute commands for ulx
 
 ##Use
 
-In chat: !tgag <target> [minutes]
+In chat: !tgag \<target\> [minutes]
 
 Where minutes may be a number, a ulx timeString (1d = 1 day) or empty for permanent.
 
