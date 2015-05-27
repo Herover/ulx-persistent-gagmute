@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"ULX-chatban"
+	"version"			"1.0.0"
+	"up_date"			"04/13/15"
+	"author_name"			"Tekop"
+	"author_url"			"http://steamcommunity.com/id/no_coffee/"
+	"info"				"Extension to ULX gag/mute, but is with persistence over connects"
+}
